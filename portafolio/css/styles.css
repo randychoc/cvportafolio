@@ -1,0 +1,37 @@
+.body
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+.navColor
+{
+    background-color: #ffffff;
+}
+.letraColor
+{
+    color: #EF3B36;
+    font-size: 20px;    
+    font-weight: bold;
+}
+.divInicio
+{
+    background-color: #EF3B36;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.imgSize
+{
+    height: 400px;
+    max-height: 400px;
+}
+.projectsColor
+{
+    background-color: #dddddd;
+}
+.footerColor
+{
+    background-color: #30475e;
+}
+.arrowColor
+{
+    background-color: #ffffff;
+}
