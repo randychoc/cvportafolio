@@ -35,3 +35,19 @@
 {
     background-color: #ffffff;
 }
+.letraWhite
+{
+    color: #fff;
+}
+.letraBlack
+{
+    color: #000;
+}
+a img
+{   
+    margin-right: 15px;  
+}
+a:hover
+{
+    color: #000;
+}
