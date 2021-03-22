@@ -1,3 +1,10 @@
+/* Rojo: #EF3B36 
+Facebook Messenger: Fuerte #0072ff Claro: #00c6ff 
+YouTube: Fuerte #b31217 Claro #e52d27 
+Samsung: #034ea2
+PS4: #003087
+*/
+
 .body
 {
     font-family: 'Times New Roman', Times, serif;
@@ -6,15 +13,39 @@
 {
     background-color: #ffffff;
 }
+.welcome
+{
+    vertical-align: middle;
+    color: #ffffff;
+    font-weight: bold;    
+    text-align: center;
+    font-size: 3em;
+}
+.fsr 
+{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: calc(2.5em + 1vw);
+    line-height: 1.5em;
+    padding: 0em;
+    margin: 0em;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+.fsrm23
+{
+    font-size: calc(2.3em + 1vw);
+}
 .letraColor
 {
-    color: #EF3B36;
+    color: #034ea2;
     font-size: 20px;    
     font-weight: bold;
 }
 .divInicio
 {
-    background-color: #EF3B36;
+    background-color: #034ea2;
     padding-top: 15px;
     padding-bottom: 15px;
 }
