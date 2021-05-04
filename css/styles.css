@@ -1,13 +1,14 @@
-/* Rojo: #EF3B36 
+/* Rojo: #EF3B36
 Samsung: #034ea2
 */
 .body
-{
+{    
     font-family: 'Times New Roman', Times, serif;
 }
 .navColor
 {
     background-color: #ffffff;
+    margin-bottom: 15px;
 }
 .welcome
 {

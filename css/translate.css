@@ -1,0 +1,48 @@
+.en
+{
+    color: #061161;
+    font-weight: bold;
+}
+.es
+{
+    color: #cb2d3e;
+    font-weight: bold;
+}
+.check
+{
+    position: relative;
+    width: 50px;
+}
+.check:before
+{
+    content: '';
+    position: absolute;
+    width: 50px;
+    height: 25px;
+    background: #cb2d3e;
+    border-radius: 25px;
+    border: 2px solid #cb2d3e;
+}
+.check:after
+{
+    content: '';
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    background: #ffffff;
+    border-radius: 25px;
+    transition: 0.25s;
+    border: 2px solid #cb2d3e;
+    box-sizing: border-box;
+}
+.check:checked:after
+{
+    left: 25px;
+    background: #ffffff;
+    border: 2px solid #061161;
+}
+.check:checked:before
+{
+    background: #061161;
+    border: 2px solid #061161;
+}
