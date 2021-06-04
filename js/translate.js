@@ -9,6 +9,6 @@ function idioma()
     }
     else 
     {
-        location.href="../index.html";
+        location.href="../";
     }
 }
