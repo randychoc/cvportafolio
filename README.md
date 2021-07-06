@@ -7,6 +7,7 @@ My CV and Web Portfolio.
 - HTML
 - CSS
 - Bootstrap
+- Google Analytics
 
 ## Live URL
 
